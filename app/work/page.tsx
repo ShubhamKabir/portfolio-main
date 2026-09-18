@@ -5,7 +5,7 @@ const categories = [
     description:
       "Websites and frontend projects built with modern web technologies.",
     href: "/work/web",
-    status: "Coming Soon",
+    status: "Explore",
   },
   {
     number: "02",
