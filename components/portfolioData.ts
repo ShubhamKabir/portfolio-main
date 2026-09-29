@@ -34,13 +34,13 @@ export const featuredProjects = [
   },
   {
     number: "04",
-    category: "React · Web",
-    title: "React Task Manager + User Search",
+    category: "AI · Automation",
+    title: "FORM — AI Lead Follow-Up Automation",
     description:
-      "A React project combining task management with user search functionality, built as a practical exploration of frontend development.",
-    type: "Web Project",
-    href: "https://github.com/ShubhamKabir/react-task-manager",
-    linkLabel: "View on GitHub →",
+      "An AI-powered lead follow-up workflow connecting a website contact form with Make, Airtable, Gemini, HubSpot, and Gmail.",
+    type: "Automation Project",
+    href: "/work/automation",
+    linkLabel: "View Project →",
     preview: null,
   },
 ];

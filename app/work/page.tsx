@@ -17,6 +17,14 @@ const categories = [
   },
   {
     number: "03",
+    title: "Automation Projects",
+    description:
+      "Business automation systems connecting web applications, data, AI, CRM, communication, and operational workflows.",
+    href: "/work/automation",
+    status: "Explore",
+  },
+  {
+    number: "04",
     title: "Fiverr & Freelance",
     description:
       "Client work and independent projects completed across different digital and technical needs.",
@@ -24,7 +32,7 @@ const categories = [
     status: "Explore",
   },
   {
-    number: "04",
+    number: "05",
     title: "YouTube & Content",
     description:
       "Gaming, technology, tutorials, reviews, gameplay, and content strategy.",
@@ -32,7 +40,7 @@ const categories = [
     status: "Explore",
   },
   {
-    number: "05",
+    number: "06",
     title: "Creative Work",
     description:
       "Creative and digital projects that don't fit neatly into the technical categories.",

@@ -3,34 +3,42 @@ const categories = [
     number: "01",
     title: "Web Projects",
     description:
-      "Websites, interfaces, and digital experiences built with modern web technologies.",
+      "Websites and frontend projects built with modern web technologies.",
     href: "/work/web",
   },
   {
     number: "02",
     title: "Technical Projects",
-    description: "Python, SQL, AI, data, and practical software projects.",
+    description:
+      "Python, SQL, data analysis, AI projects, and technical experiments.",
     href: "/work/technical",
   },
   {
     number: "03",
-    title: "Fiverr & Freelance",
+    title: "Automation Projects",
     description:
-      "Client work across development, technical services, research, and digital content.",
-    href: "/work/freelance",
+      "Business workflow automation connecting web applications, data, AI, CRM, communication, and operations.",
+    href: "/work/automation",
   },
   {
     number: "04",
-    title: "YouTube & Content",
+    title: "Fiverr & Freelance",
     description:
-      "Gaming and technology content created from research through publishing and optimization.",
-    href: "/work/youtube",
+      "Client work and independent projects completed across different digital and technical needs.",
+    href: "/work/freelance",
   },
   {
     number: "05",
+    title: "YouTube & Content",
+    description:
+      "Gaming, technology, tutorials, reviews, gameplay, and content strategy.",
+    href: "/work/youtube",
+  },
+  {
+    number: "06",
     title: "Creative Work",
     description:
-      "Creative and digital media work developed across different formats and projects.",
+      "Creative and digital projects that don't fit neatly into the technical categories.",
     href: "/work/creative",
   },
 ];

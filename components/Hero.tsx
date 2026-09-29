@@ -6,7 +6,7 @@ export default function Hero() {
     >
       <div className="max-w-5xl">
         <p className="mb-6 text-sm font-medium uppercase tracking-[0.2em] text-zinc-500">
-          Python · AI · Web · Creative Work
+          PYTHON · AI · AUTOMATION · WEB · CREATIVE WORK
         </p>
 
         <h1 className="text-5xl font-semibold tracking-tight sm:text-6xl lg:text-8xl">
@@ -14,8 +14,9 @@ export default function Hero() {
         </h1>
 
         <p className="mt-8 max-w-3xl text-lg leading-8 text-zinc-600 sm:text-xl">
-          Building across technology and creativity — from websites and
-          AI-assisted workflows to data, content, and digital projects.
+          Building across technology and creativity — from websites and business
+          automation workflows to data, AI-assisted systems, content, and
+          digital projects.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4">

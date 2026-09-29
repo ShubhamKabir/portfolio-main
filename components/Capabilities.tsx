@@ -16,7 +16,7 @@ export default function Capabilities() {
       number: "03",
       title: "AI & Automation",
       description:
-        "Prompt engineering, AI-assisted workflows, and practical automation solutions.",
+        "Business workflow automation using Make, Airtable, Notion, Gmail, CRM integrations, and AI-assisted processing.",
     },
     {
       number: "04",

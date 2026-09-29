@@ -15,9 +15,9 @@ export default function Introduction() {
         <div>
           <p className="text-lg leading-8 text-zinc-600">
             I work across web development, Python and data, AI-assisted
-            workflows, and digital content. I enjoy turning ideas into practical
-            projects and combining technical skills with creative
-            problem-solving.
+            workflows, business automation, and digital content. I enjoy turning
+            ideas into practical projects and combining technical skills with
+            creative problem-solving.
           </p>
 
           <a

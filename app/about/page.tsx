@@ -45,8 +45,8 @@ export default function AboutPage() {
 
             <p>
               Today, I work across technical projects, freelance work, content,
-              and AI-assisted workflows while continuing to build deeper skills
-              and new digital projects.
+              AI-assisted systems, and business automation while continuing to
+              build deeper skills and new digital projects.
             </p>
           </div>
         </div>
@@ -64,8 +64,8 @@ export default function AboutPage() {
             </h2>
 
             <p className="mt-3 leading-7 text-zinc-600">
-              Python, SQL, data analysis, web development, AI-assisted
-              workflows, and automation.
+              My current interests include Python, SQL, data analysis, web
+              development, AI-assisted workflows, and business automation.
             </p>
           </div>
 
