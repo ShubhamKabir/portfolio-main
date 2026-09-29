@@ -1,12 +1,10 @@
-# Shubham --- Personal Portfolio
+# Shubham — Personal Portfolio
 
-A personal portfolio website showcasing work across technology, web
-development, creative work, freelancing, and YouTube.
+A personal portfolio website showcasing work across technology, web development, AI, business automation, creative work, freelancing, and YouTube.
 
 ## Overview
 
-This portfolio brings together my multidisciplinary work and experience
-in one place, with dedicated sections for:
+This portfolio brings together my multidisciplinary work and experience in one place, with dedicated sections for:
 
 - About
 - Experience
@@ -14,6 +12,7 @@ in one place, with dedicated sections for:
 - Featured Work
 - Web Projects
 - Technical Projects
+- Automation Projects
 - Creative Work
 - Freelance Work
 - YouTube Work
@@ -33,6 +32,7 @@ in one place, with dedicated sections for:
 - Responsive portfolio experience
 - Structured project and work pages
 - Dedicated work categories
+- Automation project showcase
 - Resume page with downloadable PDF
 - Fiverr work showcase
 - YouTube work showcase
@@ -46,6 +46,7 @@ app/
 ├── about/
 ├── resume/
 └── work/
+    ├── automation/
     ├── creative/
     ├── freelance/
     ├── technical/
@@ -73,15 +74,8 @@ public/
 
 ## Local Development
 
-Install dependencies:
-
 ```bash
 npm install
-```
-
-Run the development server:
-
-```bash
 npm run dev
 ```
 
@@ -89,8 +83,7 @@ The development server runs at `http://localhost:3000`.
 
 ## Production
 
-The portfolio is deployed through Vercel and connected to the `master`
-branch of the GitHub repository.
+The portfolio is deployed through Vercel and connected to the `master` branch of the GitHub repository.
 
 Production workflow:
 
@@ -118,6 +111,4 @@ git push
 
 **Shubham**
 
-Computer Engineering graduate working across technology and creativity,
-with experience spanning web development, Python, SQL, AI-assisted
-workflows, freelancing, content creation, and digital projects.
+Computer Engineering graduate working across technology and creativity, with experience spanning web development, Python, SQL, AI-assisted workflows, business automation, freelancing, content creation, and digital projects.
