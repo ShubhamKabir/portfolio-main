@@ -45,7 +45,7 @@ const categories = [
     description:
       "Creative and digital projects that don't fit neatly into the technical categories.",
     href: "/work/creative",
-    status: "Coming Soon",
+    status: "Explore",
   },
 ];
 
